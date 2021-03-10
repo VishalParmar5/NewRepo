@@ -11,9 +11,17 @@ dismissed, the innings ends and the teams swap roles. The game is adjudicated by
 aided by a third umpire and match referee in international matches. 
  india players are best.
 They communicate with 
-two off-field scorers who record the match's statistical information.
 
-players of india : Rohit Sharma, Virat kohli, Mahendrasing Dhoni, 
+React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces.
+
+zdfdff sdf 
+ as
+ 
+ dismissed, the innings ends and the teams swap roles. The game is adjudicated by two umpires, 
+aided by a third umpire and match referee in international matches. They communicate with 
+two off-field scorers who record the match's statistical information.
+Ind vs Eng T20 (12/03/2021).
+
 
 players of australia : Steven Smith, David Warner
 
@@ -36,3 +44,9 @@ showing you the conflicting changes between the two branches along with an outpu
 You may check the box for each hunk of code you wish to keep or select the code one line at a time.
 
 ...
+Ind vs Eng T20 (14/03/2021).
+
+React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces.
+
+However, when there are conflicting changes on the same lines, a “merge conflict” occurs because Git doesn’t know which code to keep 
+and which to discard.
