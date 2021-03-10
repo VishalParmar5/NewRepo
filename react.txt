@@ -5,7 +5,6 @@ So to understand the basic structure of a React Native app, you need to understa
 components, state, and props. If you already know React, you still need to learn some React-Native-specific stuff,
 like the native components. This tutorial is aimed at all audiences, whether you have React experience or not
 
-<<<<<<< HEAD
 it can run on both devices (android and IOS)
 
 After learning about these terminologies, 
@@ -15,13 +14,3 @@ there are multiple options that you can perform on a file that is uploaded on Gi
 “git reset” is defined as the default operation with which you can undo the last commit or 
 change that you have made to the current file. Now, this operation comes with five different 
 options, namely: hard, soft, merged, mixed, and keep.
-=======
-React Native is like React, but it uses native components instead of web components as building blocks. 
-So to understand the basic structure of a React Native app, you need to understand some of the basic React concepts, like JSX,
-components, state, and props. If you already know React, you still need to learn some React-Native-specific stuff,
-like the native components. This tutorial is aimed at all audiences, whether you have React experience or not
-React Native is like React, but it uses native components instead of web components as building blocks. 
-So to understand the basic structure of a React Native app, you need to understand some of the basic React concepts, like JSX,
-components, state, and props. If you already know React, you still need to learn some React-Native-specific stuff,
-like the native components. This tutorial is aimed at all audiences, whether you have React experience or Yes
->>>>>>> main
