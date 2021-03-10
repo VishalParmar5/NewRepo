@@ -11,10 +11,8 @@ zdfdff sdf
 aided by a third umpire and match referee in international matches. They communicate with 
 two off-field scorers who record the match's statistical information.
 Ind vs Eng T20 (12/03/2021).
-<<<<<<< HEAD
-Data Inserted
-=======
+
+
 Ind vs Eng T20 (14/03/2021).
 
 React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces.
->>>>>>> 531939eaf318862796d27b2bb42b872c5a9a4aeb
