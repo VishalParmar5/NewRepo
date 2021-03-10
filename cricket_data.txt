@@ -4,8 +4,10 @@ end, each comprising two bails balanced on three stumps. Means of dismissal incl
 
 React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces.
 
- When ten batters have been 
-dismissed, the innings ends and the teams swap roles. The game is adjudicated by two umpires, 
+zdfdff sdf 
+ as
+ 
+ dismissed, the innings ends and the teams swap roles. The game is adjudicated by two umpires, 
 aided by a third umpire and match referee in international matches. They communicate with 
 two off-field scorers who record the match's statistical information.
 Ind vs Eng T20 (12/03/2021).
