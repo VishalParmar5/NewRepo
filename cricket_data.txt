@@ -16,3 +16,11 @@ players of australia : Steven Smith, David Warner
 
 india has more cricket enthusiasts than any country.... 
 Ind vs Eng T20 (12/03/2021).
+
+
+Depending upon the option that you have selected or used with your “git reset” command, you are going 
+to get a different “undo” level. The “git reset –hard” operation is considered the most effective 
+operation if you wish to entirely get rid of your last commit. It means that when you perform this 
+operation, the head of your file will change, i.e., it will no longer be pointing to your last commit. 
+Not only this, but it will also clear out your last commit from your index and even change your current 
+working directory.
