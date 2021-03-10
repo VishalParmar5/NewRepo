@@ -6,3 +6,11 @@ components, state, and props. If you already know React, you still need to learn
 like the native components. This tutorial is aimed at all audiences, whether you have React experience or not
 
 it can run on both devices (android and IOS)
+
+After learning about these terminologies, 
+it will now be very easy for you to understand the difference 
+between “git reset” and “git reset –hard” operations. As we already stated, 
+there are multiple options that you can perform on a file that is uploaded on Git, similarly, 
+“git reset” is defined as the default operation with which you can undo the last commit or 
+change that you have made to the current file. Now, this operation comes with five different 
+options, namely: hard, soft, merged, mixed, and keep.
